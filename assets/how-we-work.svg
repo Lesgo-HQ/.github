@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="900" role="img" aria-label="How we work: idea, strategy, design, build, launch">
+  <style>
+    .s{fill:none;stroke:#1E3A4C;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1;animation:draw 13s ease-in-out infinite;animation-delay:var(--d,0s)}
+    g.s{stroke-dasharray:none;stroke-dashoffset:0;animation:none}
+    g.s path,g.s circle{fill:none;stroke:#1E3A4C;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1;animation:draw 13s ease-in-out infinite;animation-delay:var(--d,0s)}
+    .f{opacity:0;animation:fade 13s ease-in-out infinite;animation-delay:var(--d,0s)}
+    text{font-family:'Helvetica Neue',Arial,sans-serif;fill:#1E3A4C}
+    .n{font-size:14px;font-weight:700;letter-spacing:3px}
+    .t{font-size:28px;font-weight:800}
+    .u{font-size:15px;font-weight:500}
+    @keyframes draw{0%{stroke-dashoffset:1}9%{stroke-dashoffset:0}90%{stroke-dashoffset:0}97%,100%{stroke-dashoffset:1}}
+    @keyframes fade{0%{opacity:0}7%{opacity:1}90%{opacity:1}97%,100%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.s,g.s path,g.s circle{animation:none;stroke-dashoffset:0}.f{animation:none;opacity:1}}
+  </style>
+  <rect width="1200" height="340" rx="36" fill="#C2F84F"/>
+  <rect x="14" y="14" width="1172" height="312" rx="26" fill="none" stroke="#1E3A4C" stroke-width="2" opacity=".25"/>
+  <g transform="translate(120 125)">
+    <g class="f" style="--d:0.0s"><circle cx="6" cy="6" r="66" fill="#1E3A4C"/><circle r="66" fill="#E2FD9A"/></g>
+    <circle class="s" pathLength="1" style="--d:0.0s" r="66"/>
+    <g class="s" style="--d:0.4s" transform="scale(.8)"><path pathLength="1" d="M0 -42 C-26 -42 -38 -22 -34 -2 C-31 12 -18 18 -16 32 L16 32 C18 18 31 12 34 -2 C38 -22 26 -42 0 -42 Z"/><path pathLength="1" d="M-14 41 L14 41 M-9 50 L9 50 M-8 -4 L0 7 L8 -4"/></g>
+    <g class="f" style="--d:0.5s">
+      <text class="n" y="-92" text-anchor="middle">01</text>
+      <text class="t" y="124" text-anchor="middle">Idea</text>
+      <text class="u" y="152" text-anchor="middle">Rough is fine</text>
+    </g>
+  </g>
+  <path class="s" pathLength="1" style="--d:0.9s" d="M202 125 C236 99 248 99 282 125 M276.2 112.3 L282 125 L268.2 122.7"/>
+  <g transform="translate(360 125)">
+    <g class="f" style="--d:1.6s"><circle cx="6" cy="6" r="66" fill="#1E3A4C"/><circle r="66" fill="#E2FD9A"/></g>
+    <circle class="s" pathLength="1" style="--d:1.6s" r="66"/>
+    <g class="s" style="--d:2.0s" transform="scale(.8)"><circle pathLength="1" cx="0" cy="2" r="40"/><circle pathLength="1" cx="0" cy="2" r="23"/><circle pathLength="1" cx="0" cy="2" r="6"/><path pathLength="1" d="M8 -6 L46 -44 M46 -44 L46 -28 M46 -44 L30 -44"/></g>
+    <g class="f" style="--d:2.1s">
+      <text class="n" y="-92" text-anchor="middle">02</text>
+      <text class="t" y="124" text-anchor="middle">Strategy</text>
+      <text class="u" y="152" text-anchor="middle">What to build first</text>
+    </g>
+  </g>
+  <path class="s" pathLength="1" style="--d:2.5s" d="M442 125 C476 99 488 99 522 125 M516.2 112.3 L522 125 L508.2 122.7"/>
+  <g transform="translate(600 125)">
+    <g class="f" style="--d:3.2s"><circle cx="6" cy="6" r="66" fill="#1E3A4C"/><circle r="66" fill="#E2FD9A"/></g>
+    <circle class="s" pathLength="1" style="--d:3.2s" r="66"/>
+    <g class="s" style="--d:3.6s" transform="scale(.8)"><path pathLength="1" d="M-32 34 L28 -28 L42 -14 L-18 48 Z"/><path pathLength="1" d="M-32 34 L-44 52 L-18 48 M20 -20 L34 -6"/></g>
+    <g class="f" style="--d:3.7s">
+      <text class="n" y="-92" text-anchor="middle">03</text>
+      <text class="t" y="124" text-anchor="middle">Design</text>
+      <text class="u" y="152" text-anchor="middle">Brand, UI, motion</text>
+    </g>
+  </g>
+  <path class="s" pathLength="1" style="--d:4.1s" d="M682 125 C716 99 728 99 762 125 M756.2 112.3 L762 125 L748.2 122.7"/>
+  <g transform="translate(840 125)">
+    <g class="f" style="--d:4.8s"><circle cx="6" cy="6" r="66" fill="#1E3A4C"/><circle r="66" fill="#E2FD9A"/></g>
+    <circle class="s" pathLength="1" style="--d:4.8s" r="66"/>
+    <g class="s" style="--d:5.2s" transform="scale(.8)"><path pathLength="1" d="M-18 -28 L-46 2 L-18 32 M18 -28 L46 2 L18 32 M8 -38 L-8 42"/></g>
+    <g class="f" style="--d:5.3s">
+      <text class="n" y="-92" text-anchor="middle">04</text>
+      <text class="t" y="124" text-anchor="middle">Build</text>
+      <text class="u" y="152" text-anchor="middle">Clean, tested code</text>
+    </g>
+  </g>
+  <path class="s" pathLength="1" style="--d:5.7s" d="M922 125 C956 99 968 99 1002 125 M996.2 112.3 L1002 125 L988.2 122.7"/>
+  <g transform="translate(1080 125)">
+    <g class="f" style="--d:6.4s"><circle cx="6" cy="6" r="66" fill="#1E3A4C"/><circle r="66" fill="#E2FD9A"/></g>
+    <circle class="s" pathLength="1" style="--d:6.4s" r="66"/>
+    <g class="s" style="--d:6.8s" transform="scale(.8)"><path pathLength="1" d="M0 -50 C22 -32 26 -4 20 22 L-20 22 C-26 -4 -22 -32 0 -50 Z"/><circle pathLength="1" cx="0" cy="-14" r="8"/><path pathLength="1" d="M-20 10 L-38 34 L-20 28 M20 10 L38 34 L20 28 M-9 32 Q0 58 9 32"/></g>
+    <g class="f" style="--d:6.9s">
+      <text class="n" y="-92" text-anchor="middle">05</text>
+      <text class="t" y="124" text-anchor="middle">Launch</text>
+      <text class="u" y="152" text-anchor="middle">Live and measured</text>
+    </g>
+  </g>
+</svg>

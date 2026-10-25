@@ -1,155 +1,185 @@
 <div align="center">
-  <a href="https://www.lesgo.works">
-    <img src="./assets/logo.png" alt="LESGO Studios" width="220" />
+  <a href="https://www.lesgo.works/">
+    <img src="./assets/logo.svg" alt="LESGO" width="100%" />
   </a>
-  <br />
-  <br />
-  <h1>BORING IS BAD FOR BUSINESS.</h1>
-  <p>An independent studio mixing design, technology, and a little bit of the unexpected to build things that stand out.</p>
-  <p>
-    <a href="https://cal.com/lesgohq">Start a project</a> &nbsp;·&nbsp;
-    <a href="https://www.lesgo.works">Visit lesgo.works</a> &nbsp;·&nbsp;
-    <a href="mailto:hello@lesgo.works">hello@lesgo.works</a>
-  </p>
+  <br /><br />
+  An independent studio mixing design, tech, and a little bit of the unexpected,<br />to make things that stand out.
+  <br /><br />
+  <a href="https://www.lesgo.works/">Website</a> &nbsp;·&nbsp;
+  <a href="https://cal.com/lesgohq">Book a call</a> &nbsp;·&nbsp;
+  <a href="mailto:hello@lesgo.works">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/company/lesgohq">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/lesgohq">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://x.com/lesgohq">X</a>
 </div>
 
 <br />
 
-## 00 — Manifesto
+## 00. Manifesto
 
-Got a crazy little idea? We turn early concepts into distinctive brands, high-performance web and mobile platforms, interactive 3D experiences, and production AI workflows. Built for founders, operators, and ambitious teams ready to make their next move.
+Got a crazy little idea? We turn early ideas into distinctive brands, websites, apps and AI workflows. Built for founders and teams ready to make their next move.
 
-`STRATEGY` &nbsp;·&nbsp; `DESIGN` &nbsp;·&nbsp; `DEVELOPMENT` &nbsp;·&nbsp; `MOTION`
-
----
-
-## 01 — What We Do
-
-One multidisciplinary creative technology studio, taking ideas from strategic identity to global deployment.
-
-| No. | Discipline | Focus | Scope |
-| :--- | :--- | :--- | :--- |
-| **01** | **Branding & Design** | Identity systems and interfaces with a distinct point of view | Visual identity, design systems, UI/UX architecture |
-| **02** | **Web & App Development** | Scalable, high-performance web platforms shipped to production standards | Modern full-stack applications, PWAs, performance engineering |
-| **03** | **AI & Automation** | Custom intelligence workflows that remove repetitive bottlenecks | Agentic pipelines, LLM fine-tuning, process automation |
-| **04** | **3D & Creative Engineering** | Spatial graphics and interactive web scenes built to run anywhere | Three.js scenes, WebGL shaders, real-time optimization |
-| **05** | **Business Systems** | High-utility internal tools, dashboards, and automated back-offices | Operations portals, metric dashboards, enterprise integrations |
-| **06** | **Content Production** | Dynamic motion design and brand visuals that elevate a launch | Micro-interactions, scroll-driven storytelling, launch media |
-| **07** | **Digital Marketing** | Technical positioning and distribution strategies that earn attention | Market positioning, developer marketing, launch execution |
+`strategy` &nbsp;·&nbsp; `design` &nbsp;·&nbsp; `development` &nbsp;·&nbsp; `motion`
 
 ---
 
-## 02 — How We Work
+## 01. What we do
 
-```
-[ 01 IDEA ] ────► [ 02 STRATEGY ] ────► [ 03 DESIGN ] ────► [ 04 BUILD ] ────► [ 05 LAUNCH ]
-  Raw concept       Scope & roadmap       Systems & UI          Tested code           Live & iterated
-```
-
-- **Clear timelines.** Deterministic milestones with predictable release schedules.
-- **No surprise invoices.** Fixed scopes, transparent progress, and accountable deliverables.
-- **Plain language.** Engineering architecture and design decisions communicated with clarity.
-
----
-
-## 03 — Selected Work
-
-| Project | Domain | Summary | Access |
-| :--- | :--- | :--- | :--- |
-| [**Crunch3D**](https://github.com/Lesgo-HQ/Crunch3D) | 3D Infrastructure & AI | AI-assisted semantic mesh decimation and optimization engine. Reduces heavy polygon counts while preserving critical boundary curvature and surface detail for real-time graphics. | [GitHub Repository](https://github.com/Lesgo-HQ/Crunch3D) &nbsp;·&nbsp; [Case Study](https://www.lesgo.works/work/crunch3d) |
-| [**Manch**](https://www.lesgo.works/work/manch) | SaaS & Operations Platform | All-in-one hackathon and developer event management system unifying attendee registration, team formation, automated check-ins, live judging, and instant leaderboards. | [Case Study](https://www.lesgo.works/work/manch) |
+| No. | Discipline | What it means |
+| :--- | :--- | :--- |
+| **01** | **Branding and Design** | Identity systems and interfaces with a point of view |
+| **02** | **Web and App Development** | Fast, scalable sites and products, shipped properly |
+| **03** | **AI and Automation** | Custom AI workflows that remove the boring parts |
+| **04** | **Business Systems** | Internal tools, dashboards and integrations |
+| **05** | **3D Development** | Interactive 3D experiences, built to run anywhere |
+| **06** | **Content Production** | Motion and visuals that carry a launch |
+| **07** | **Digital Marketing** | Positioning and campaigns that get seen |
 
 ---
 
-## 04 — The Team
+## 02. How we work
 
-The multidisciplinary engineers, designers, and builders behind LESGO Studios.
+<p align="center">
+  <img src="./assets/how-we-work.svg" alt="How we work: idea, strategy, design, build, launch" width="100%" />
+</p>
+
+Clear timelines. No surprise invoices. Tech choices explained in plain language.
+
+---
+
+## 03. Selected work
+
+| Project | In one line |
+| :--- | :--- |
+| [**Crunch3D**](https://www.lesgo.works/work/crunch3d) | Shrinking heavy 3D meshes without losing what matters |
+| [**Manch**](https://www.lesgo.works/work/manch) | One platform to run events and hackathons end to end |
+
+---
+
+## 04. The people
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="170">
       <a href="https://github.com/itzsouravkumar">
-        <img src="https://github.com/itzsouravkumar.png?size=180" width="88" alt="Sourav Kumar" />
-        <br />
-        <b>Sourav Kumar</b>
+        <img src="https://wsrv.nl/?url=https://github.com/itzsouravkumar.png&w=200&h=200&fit=cover&mask=circle" width="100" alt="Sourav Kumar" />
       </a>
       <br />
-      <sub>Creative Technology & Engineering</sub>
+      <b>Sourav Kumar</b>
       <br />
-      <sub><a href="https://github.com/itzsouravkumar">@itzsouravkumar</a></sub>
+      <sub>@itzsouravkumar</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="170">
       <a href="https://github.com/anish-9387">
-        <img src="https://github.com/anish-9387.png?size=180" width="88" alt="Anish Mall" />
-        <br />
-        <b>Anish Mall</b>
+        <img src="https://wsrv.nl/?url=https://github.com/anish-9387.png&w=200&h=200&fit=cover&mask=circle" width="100" alt="Anish Mall" />
       </a>
       <br />
-      <sub>Systems Architecture & Full-Stack</sub>
+      <b>Anish Mall</b>
       <br />
-      <sub><a href="https://github.com/anish-9387">@anish-9387</a></sub>
+      <sub>@anish-9387</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="170">
       <a href="https://github.com/itzayush18">
-        <img src="https://github.com/itzayush18.png?size=180" width="88" alt="Ayush" />
-        <br />
-        <b>Ayush</b>
+        <img src="https://wsrv.nl/?url=https://github.com/itzayush18.png&w=200&h=200&fit=cover&mask=circle" width="100" alt="Ayush" />
       </a>
       <br />
-      <sub>Design Systems & Frontend</sub>
+      <b>Ayush</b>
       <br />
-      <sub><a href="https://github.com/itzayush18">@itzayush18</a></sub>
+      <sub>@itzayush18</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="170">
       <a href="https://github.com/aashisoni000">
-        <img src="https://github.com/aashisoni000.png?size=180" width="88" alt="Aashi Soni" />
-        <br />
-        <b>Aashi Soni</b>
+        <img src="https://wsrv.nl/?url=https://github.com/aashisoni000.png&w=200&h=200&fit=cover&mask=circle" width="100" alt="Aashi Soni" />
       </a>
       <br />
-      <sub>Product Design & Motion</sub>
+      <b>Aashi Soni</b>
       <br />
-      <sub><a href="https://github.com/aashisoni000">@aashisoni000</a></sub>
+      <sub>@aashisoni000</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 05 — Technical Infrastructure
+## 05. Tools of the trade
 
-| Category | Primary Technologies |
-| :--- | :--- |
-| **Frontend Engineering** | [TypeScript](https://www.typescriptlang.org/) · [Next.js](https://nextjs.org/) · [React](https://react.dev/) · [Tailwind CSS](https://tailwindcss.com/) |
-| **Backend & Data Systems** | [Node.js](https://nodejs.org/) · [Python](https://www.python.org/) · [FastAPI](https://fastapi.tiangolo.com/) · [MongoDB](https://www.mongodb.com/) · [PostgreSQL](https://www.postgresql.org/) |
-| **Creative & 3D Engineering** | [Three.js](https://threejs.org/) · [WebGL](https://www.khronos.org/webgl/) · [GSAP](https://gsap.com/) · [Blender](https://www.blender.org/) |
-| **Mobile Platforms** | [Flutter](https://flutter.dev/) · [Dart](https://dart.dev/) · [Kotlin](https://kotlinlang.org/) |
-| **Artificial Intelligence** | [PyTorch](https://pytorch.org/) · [Anthropic API](https://docs.anthropic.com/) · [Google Gemini API](https://ai.google.dev/) |
-| **Interface & Visual Systems** | [Figma](https://www.figma.com/) · Design Systems Architecture · Motion Graphics |
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-## 06 — Studio Inquiries & Contact
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-Have a project in mind, an idea to prototype, or an existing system to revamp?
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-| Channel | Destination |
-| :--- | :--- |
-| **Schedule a Call** | [cal.com/lesgohq](https://cal.com/lesgohq) |
-| **Direct Email** | [hello@lesgo.works](mailto:hello@lesgo.works) |
-| **Studio Website** | [lesgo.works](https://www.lesgo.works) |
-| **LinkedIn** | [linkedin.com/company/lesgohq](https://www.linkedin.com/company/lesgohq) |
-| **Instagram** | [@lesgohq](https://www.instagram.com/lesgohq) |
-| **X / Twitter** | [@lesgohq](https://x.com/lesgohq) |
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+
+### AI and Automation
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### DevOps and Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Design and 3D
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black)
 
 <br />
 
 ---
 
 <div align="center">
-  <sub><b>LESGO STUDIOS</b> &nbsp;·&nbsp; Creative Technology & Digital Design</sub>
-  <br />
-  <sub>Independent Studio &nbsp;·&nbsp; Operating Globally &nbsp;·&nbsp; © 2026 LESGO Studios</sub>
-  <br />
-  <small><i>Boring is bad for business.</i></small>
+  LESGO<br />
+  <sub>creative technology and digital design / independent studio / © 2026 LESGO Studios</sub>
 </div>
